@@ -8,7 +8,7 @@ Centre for Social Action (CSA) in Christ University is a unique movement, where 
 The purpose of this project is to strengthen the awareness and participation of people those who are interested in CSA movement. Furthermore, through spread of this application we can expect others to join this green movement.
 
 ## 2. Feature
-This application provides three main services. 
+This application provides two main services. 
 + Login
 + Register items through Web
 
